@@ -41,12 +41,6 @@ WeatherForecastApplication
     |
     |--->target
     |
-    |--->.classpath
-    |
-    |--->.project
-    |
-    |--->HELP.md
-    |
     |--->mvnw
     |
     |--->mvnw.cmd
